@@ -1,0 +1,12 @@
+# no need to store it after build
+node_modules
+
+# remove all readme files
+*.md
+
+# no need tem files
+
+*/temp*
+
+# will be stored in an image
+dist
